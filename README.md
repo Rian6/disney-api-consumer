@@ -1,4 +1,7 @@
-![Logo do Markdown](public/disney-logo.png)
+![Logo do Markdown](public/disney-logo.png){ 
+  max-width:  200px; 
+  display: block;
+}
 
 # Disney Api Consumer
 
