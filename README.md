@@ -1,4 +1,4 @@
-![Logo do Markdown](img/markdown.png)
+![Logo do Markdown](public/disney-logo.png)
 
 # Disney Api Consumer
 
@@ -19,7 +19,7 @@ Node: 14.18.0
 
 Baixe o arquivo do git usando
 
-```git clone https://github.com/Rian6/community_web.git```
+```git clone https://github.com/Rian6/disney-api-consumer.git```
 
 Entre na pasta do projeto usando 
 
