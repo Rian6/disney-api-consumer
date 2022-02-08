@@ -12,9 +12,11 @@
     height: 300; 
     box-shadow: 0 0 1em blue;
 }
+
 .div-pesquisa{
     background-color: #1d3557;
 }
+
 .div-pesquisa-campos{
     margin: 40px;
 }
@@ -22,6 +24,7 @@
 .campo-pesquisa{
     margin: 100;
 }
+
 .div-fundo{
     position:absolute;
 	background-color:#1d3557;

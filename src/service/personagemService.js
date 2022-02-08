@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import { get } from '../conexao/conector';
 
-
 let todosPersonagens = []
 
 export async function preencherPersonagens(totalPaginas) {
